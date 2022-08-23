@@ -1,5 +1,5 @@
-[![github.gif](https://s4.gifyu.com/images/github.gif)](https://gifyu.com/image/STJw4)
-
+[![github.gif](https://s4.gifyu.com/images/github.gif)]
+<img src="https://s4.gifyu.com/images/github.gif" alt="github.gif" border="0" /></a>
 <h1 align="center">Hi 👋, I'm Kiran Borge</h1>
 <h3 align="center">A Software Engineer and also an engineering students at university of mumbai</h3>
 
