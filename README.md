@@ -1,10 +1,20 @@
-- 👋 Hi, I’m Kiran Borge
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi , I'm Kiran Borge
 
-<!---
-borgekiran/borgekiran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+a Software Engineer and also an engineering students at university of mumbai
+
+🔭 I’m currently working in Griffyn Robotech Private Limited
+
+🌱 I’m currently Working on Mobile App(React-Native)
+
+🤝 I’m available for freelancing.
+
+🌱 I’m currently learning Swift && SwiftUI 100DaysOfSwift                     
+
+📝 I regularly write articles on https://dev.to/100rabhcsmc
+
+💬 Ask me about Reactjs & React-Native
+
+📫 How to reach me saurabhchavan052@gmail.com
+
+📄 Know about my experiences Resume
+
