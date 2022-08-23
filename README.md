@@ -1,7 +1,7 @@
-<img src="https://s4.gifyu.com/images/github.gif" alt="github.gif" border="0" align="center" />
+
 <h1 align="center">Hi 👋, I'm Kiran Borge</h1>
 <h3 align="center">A Software Engineer and also an engineering students at university of mumbai</h3>
-
+<img align="center" src="https://s4.gifyu.com/images/github.gif" alt="github.gif" border="0" />
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borgekiran&label=Profile%20views&color=0e75b6&style=flat" alt="borgekiran" /> </p>
