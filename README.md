@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borgekiran&label=Profile%20views&color=0e75b6&style=flat" alt="borgekiran" /> </p>
 
-<iframe src="https://gifer.com/embed/5TMy" align="right" width=480 height=750.638 frameBorder="0" allowFullScreen></iframe>
+<iframe src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width=480 height=750.638 frameBorder="0" allowFullScreen></iframe>
 
 - 🔭 I’m currently working on **Master of Computer Application**
 
