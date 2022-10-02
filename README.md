@@ -5,8 +5,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borgekiran&label=Profile%20views&color=0e75b6&style=flat" alt="borgekiran" /> </p>
-<img align="right" width="40%" height="18%" src="https://user-images.githubusercontent.com/78689154/193443464-a7afe50a-6d1a-4747-a74b-1a30286b635a.gif
-" alt="github.gif" border="0" />
+<img align="right" width="40%" height="18%" src="https://user-images.githubusercontent.com/78689154/193443464-a7afe50a-6d1a-4747-a74b-1a30286b635a.gif" alt="github.gif" border="0" />
 
 - 🔭 I’m currently working on **Master of Computer Application**
 
