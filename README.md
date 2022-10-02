@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kiran Borge</h1>
-<h3 align="center">A Software Engineer and also an engineering students at university of mumbai</h3>
+<h3 align="center">A Software Engineer, I’m humble enough to know I’m not better than anybody and wise enough to know I’m different from the rest... </h3>
 <img align="center" src="https://s4.gifyu.com/images/github.gif" alt="github.gif" border="0" />
 
 
