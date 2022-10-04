@@ -35,6 +35,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=borgekiran&show_icons=true&locale=en&layout=compact" alt="borgekiran" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=borgekiran&show_icons=true&locale=en" alt="borgekiran" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=borgekiran&" alt="borgekiran" /></p>
