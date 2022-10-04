@@ -1,7 +1,4 @@
-
 <h1 align="center">Hi 👋, I'm Kiran Borge</h1>
-<h3 align="center">I’m humble enough to know I’m not better than anybody and wise enough to know I’m different from the rest </h3>
-<img align="center" src="https://s4.gifyu.com/images/github.gif" alt="github.gif" border="0" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borgekiran&label=Profile%20views&color=0e75b6&style=flat" alt="borgekiran" /> </p>
