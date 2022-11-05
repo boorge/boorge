@@ -2,7 +2,6 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borgekiran&label=Profile%20views&color=0e75b6&style=flat" alt="borgekiran" /> </p>
-<img align="right" width="40%" height="18%" src="https://user-images.githubusercontent.com/78689154/193443695-afc69d51-bc08-4803-80d6-d2052ed1fdfe.gif" alt="github.gif" border="0" />
 
 - 🔭 I’m currently working on **Master of Computer Application**
 
