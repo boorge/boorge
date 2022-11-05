@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Master of Computer Application**
 
-- 🌱 I’m currently learning **Blockchain Development**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://boragetech.blogspot.com](https://boragetech.blogspot.com)
 
-- 💬 Ask me about **Software Development**
+- 💬 Ask me about **Software Engineer**
 
 - 📫 How to reach me **borgekiran123@gmail.com**
 
