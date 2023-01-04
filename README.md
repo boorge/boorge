@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borgekiran&label=Profile%20views&color=0e75b6&style=flat" alt="borgekiran" /> </p>
 
+![Linkedin Cover](https://user-images.githubusercontent.com/78689154/210636720-d2f31f86-f8f8-4020-a2f1-662df291720c.png)
+
+
 - 🔭 I’m currently working on **Master of Computer Application**
 
 - 🌱 I’m currently learning **Data Science**
