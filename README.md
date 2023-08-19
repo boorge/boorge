@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kiran Borge</h1>
-<h3 align="center">Software Engineer, Full Stack Developer | React </h3>
+<h3 align="center">Software Engineer - Full Stack Developer | React </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/borgekiran/&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/borgekiran/" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/borgekiran/&theme=" alt="https://github.com/borgekiran/" /></a> </p>
