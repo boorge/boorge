@@ -1,10 +1,3 @@
-<head>
-  <style>
-  .spider{
-    display:none;
-  }
-</style>
-</head>
 <h1 align="center">Hi, I'm Kiran Borge.</h1>
 
 <h3 align="center">A passionate Software Engineer - Full Stack Developer | React frontend developer from India</h3>
