@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borgekiran&label=Profile%20views&color=0e75b6&style=flat" alt="borgekiran" /> </p>
 
 - 🔭 I’m currently working on **React**
-  
-- ![spidertocat](https://github.com/borgekiran/borgekiran/assets/78689154/1318ef36-abc5-4f3c-8af5-b52722e1ea07)
+
+<img src="https://github.com/borgekiran/borgekiran/assets/78689154/1318ef36-abc5-4f3c-8af5-b52722e1ea07" align="right">
 
 
 - 👨‍💻 All of my projects are available at [https://borgekiran.github.io/kiran/](https://borgekiran.github.io/kiran/)
