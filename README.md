@@ -17,6 +17,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://www.linkedin.com/pulse/what-oops-kiran-borge
+https://www.linkedin.com/pulse/why-learn-java-kiran-borge
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
