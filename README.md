@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kiran Borge.</h1>![cooltext441998393026030](https://github.com/borgekiran/borgekiran/assets/78689154/f07f8f4b-c750-47fb-a642-030f5e8aa467)
+<h1 align="center">Hi, I'm Kiran Borge.</h1>
 
 <h3 align="center">A passionate Software Engineer - Full Stack Developer | React frontend developer from India</h3>
 
