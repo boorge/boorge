@@ -1,3 +1,10 @@
+<head>
+  <style>
+  .spider{
+    display:none;
+  }
+</style>
+</head>
 <h1 align="center">Hi, I'm Kiran Borge.</h1>
 
 <h3 align="center">A passionate Software Engineer - Full Stack Developer | React frontend developer from India</h3>
@@ -5,11 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borgekiran&label=Profile%20views&color=0e75b6&style=flat" alt="borgekiran" /> </p>
 
 - 🔭 I’m currently working on **React**
-<style>
-  .spider{
-    display:none;
-  }
-</style>
+
 <img class="spider" src="https://github.com/borgekiran/borgekiran/assets/78689154/1318ef36-abc5-4f3c-8af5-b52722e1ea07" align="right" width="50%" height="50%">
 
 
