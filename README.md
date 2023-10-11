@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kiran Borge.</h1>
 
-<h3 align="center"> Software Engineer</h3>
+<h3 align="center"> Software Engineer</h3> ![image](https://github.com/borgekiran/borgekiran/assets/78689154/762eea46-ca72-4406-bb8a-b321f2b16dbc)
 
 [![An image of @borgekiran's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/borgekiran)](https://holopin.io/@borgekiran)
 
