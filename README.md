@@ -2,6 +2,8 @@
 
 <h3 align="center"> Software Engineer</h3>
 
+[![An image of @borgekiran's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/borgekiran)](https://holopin.io/@borgekiran)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borgekiran&label=Profile%20views&color=0e75b6&style=flat" alt="borgekiran" /> </p>
 
 - 🔭 I’m currently working on **React**
