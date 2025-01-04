@@ -20,8 +20,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-[https://www.linkedin.com/pulse/what-oops-kiran-borge](https://boorge.medium.com/what-do-software-developer-do-9270e8d3160c?source=user_profile_page---------16-------------ef8b9ed43592---------------) <br/>
-[https://www.linkedin.com/pulse/why-learn-java-kiran-borge](https://boorge.medium.com/ai-tools-for-developers-in-2025-0e456f55638c)
+[What do Software Developer do?](https://boorge.medium.com/what-do-software-developer-do-9270e8d3160c?source=user_profile_page---------16-------------ef8b9ed43592---------------) <br/>
+[AI Tools for Developers in 2025](https://boorge.medium.com/ai-tools-for-developers-in-2025-0e456f55638c)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
