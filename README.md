@@ -10,11 +10,11 @@
 - 
 - 👨‍💻 All of my projects are available at [https://borgekiran.github.io/kiran/](https://boorge.github.io/kiran/)
 
-- 📝 I regularly write articles on [https://boragetech.blogspot.com/](https://boragetech.blogspot.com/)
+- 📝 I regularly write articles on https://medium.com/@boorge
 
 - 💬 Ask me about **Software Engineer**
 
-- 📫 How to reach me **borgekiran123@gmail.com**
+- 📫 How to reach me **[borgekiran123@gmail.com](https://peerlist.io/boorge)**
 
 - ⚡ Fun fact **Impossible**
 
