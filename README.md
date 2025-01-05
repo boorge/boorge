@@ -10,7 +10,7 @@
 - 
 - 👨‍💻 All of my projects are available at [https://borgekiran.github.io/kiran/](https://boorge.github.io/kiran/)
 
-- 📝 I regularly write articles on https://medium.com/@boorge
+- 📝 I regularly write articles on : https://medium.com/@boorge
 
 - 💬 Ask me about **Software Engineer**
 
