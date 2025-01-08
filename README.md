@@ -6,8 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borgekiran&label=Profile%20views&color=0e75b6&style=flat" alt="borgekiran" /> </p>
 
-- 🔭 I’m currently working on **Python**
-- 
+- 🔭 I’m currently working on **ReactJs**
+- Check my Peerlist Portfolio - https://peerlist.io/boorge
 - 👨‍💻 All of my projects are available at [https://borgekiran.github.io/kiran/](https://boorge.github.io/kiran/)
 
 - 📝 I regularly write articles on : https://medium.com/@boorge
