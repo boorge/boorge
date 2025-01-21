@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **[borgekiran123@gmail.com](https://peerlist.io/boorge)**
 
-- ⚡ Fun fact **Impossible**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 [What do Software Developer do ?](https://boorge.medium.com/what-do-software-developer-do-9270e8d3160c?source=user_profile_page---------16-------------ef8b9ed43592---------------) <br/>
