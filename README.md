@@ -5,7 +5,7 @@
 [![An image of @borgekiran's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/borgekiran)](https://holopin.io/@borgekiran)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borgekiran&label=Profile%20views&color=0e75b6&style=flat" alt="borgekiran" /> </p>
-
+[![Peerlist](https://github-readme-badge.peerlist.io/api/boorge?style=social)](https://peerlist.io/boorge)
 - 🔭 I’m currently working on **ReactJs**
 - Check my Peerlist Portfolio - https://peerlist.io/boorge
 - 👨‍💻 All of my projects are available at [https://borgekiran.github.io/kiran/](https://boorge.github.io/kiran/)
